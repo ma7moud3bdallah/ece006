@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>How AI works</title>
+    </head>
+    <body>
+        <h1>Menu</h1>
+        <ul>
+            <li><a href="index.html">Introduction</a></li>
+            <li><a href="how.html">How AI works</a></li>
+            <li><a href="proscons.html">Pros and cons of AI</a></li>
+            <li><a href="future.html">Future of AI</a></li>
+            <li><a href="applications.html">AI in our life</a></li>
+        </ul>
+        <h1>How AI works</h1>
+        <p>Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: "Can machines think?"<br>
+            Turing's paper "Computing Machinery and Intelligence" (1950), and it's subsequent Turing Test, established the fundamental goal and vision of artificial intelligence.<br>
+            At it's core, AI is the branch of computer science that aims to answer Turing's question in the affirmative. It is the endeavor to replicate or simulate human intelligence in machines.<br>
+            The expansive goal of artificial intelligence has given rise to many questions and debates. So much so, that no singular definition of the field is universally accepted.<br>
+            The major limitation in defining AI as simply "building machines that are intelligent" is that it doesn't actually explain what artificial intelligence is? What makes a machine intelligent?<br>
+            In their groundbreaking textbook Artificial Intelligence: A Modern Approach, authors Stuart Russell and Peter Norvig approach the question by unifying their work around the theme of intelligent agents in machines. With this in mind, AI is "the study of agents that receive percepts from the environment and perform actions.<br>
+            Norvig and Russell go on to explore four different approaches that have historically defined the field of AI: 
+        </p>
+        <ul>
+            <li>Thinking humanly</li>
+            <li>Thinking rationaly</li>
+            <li>acting humanly</li>
+            <li>acting rationaly</li>
+        </ul>
+    </body>
+</html>
